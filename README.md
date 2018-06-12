@@ -1,1 +1,1 @@
-## Program do sześcionożnego robota kroczącego (Praca dyplomowa magisterska)
+### Program do sześcionożnego robota kroczącego (Praca dyplomowa magisterska)
